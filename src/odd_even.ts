@@ -1,3 +1,1 @@
-export default (value: number): boolean => {
-  return value %2 ==0 ? true : false;
-}
+export default (value: number): boolean => value % 2 == 0

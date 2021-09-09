@@ -1,3 +1,1 @@
-export default (value = ''): string => {
-  return value.trim();
-}
+export default (value = ''): string => value.trim()
